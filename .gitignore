@@ -72,3 +72,10 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+demo-springcloud.iml
